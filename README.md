@@ -460,8 +460,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Aryan Kinha**
-- GitHub: [@aryankinha](https://github.com/aryankinha)
-- Repository: [chattingAPP](https://github.com/aryankinha/chattingAPP)
+- GitHub: [@aryankinha](https://github.com/Silence91169)
+- Repository: [chattingAPP](https://github.com/Silence91169/chat-app)
 
 ---
 
