@@ -476,8 +476,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Aryan Kinha**
-- GitHub: [@aryankinha](https://github.com/Silence91169)
+**Shitanshu Singh**
+- GitHub: [@silence91169](https://github.com/Silence91169)
 - Repository: [chattingAPP](https://github.com/Silence91169/chat-app)
 
 ---
@@ -497,14 +497,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you have any questions or need help, please:
-- Open an [issue](https://github.com/aryankinha/chattingAPP/issues)
+- Open an [issue](https://github.com/silence91169/chat-app/issues)
 - Contact: [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
 <div align="center">
 
-Made with ❤️ by Aryan Kinha
+Made with ❤️ by Shitanshu Singh
 
 ⭐ Star this repository if you found it helpful!
 
